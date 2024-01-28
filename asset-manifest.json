@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hrk_search_icon_app/static/css/main.fb0973c4.css",
+    "main.js": "/hrk_search_icon_app/static/js/main.5a654b84.js",
+    "index.html": "/hrk_search_icon_app/index.html",
+    "main.fb0973c4.css.map": "/hrk_search_icon_app/static/css/main.fb0973c4.css.map",
+    "main.5a654b84.js.map": "/hrk_search_icon_app/static/js/main.5a654b84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb0973c4.css",
+    "static/js/main.5a654b84.js"
+  ]
+}
